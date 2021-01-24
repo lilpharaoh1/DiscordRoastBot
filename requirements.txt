@@ -1,6 +1,5 @@
 discord.py
 requests
-time
 beautifulsoup4
 random
 dnspython==1.16.0
