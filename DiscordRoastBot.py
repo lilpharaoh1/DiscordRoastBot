@@ -4,7 +4,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import random
-import asyncio
 
 
 def letter_split(word):
