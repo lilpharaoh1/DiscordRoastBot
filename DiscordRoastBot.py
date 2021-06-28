@@ -40,6 +40,7 @@ for i in tc_insults_ol:
 # Discord Client Code
 client = discord.Client()
 
+TOKEN = ""
 variable = 0
 
 
@@ -126,4 +127,4 @@ async def on_message(message):
             counter += 1
 
 
-client.run('ODAwMDM5MDM5MzI3MTQxOTE5.YAMUag.4MgWNAbEZiM8cFa5sH7aUbNYs3U')
+client.run(TOKEN)
